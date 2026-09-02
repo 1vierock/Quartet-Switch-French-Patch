@@ -2,8 +2,6 @@
 Patch Fr du super jeu RPG
 
 
-# Quartet---Switch--French-patch
-
 
 Projet de traduction française de **Quartet** sur Nintendo Switch.
 
